@@ -1,10 +1,31 @@
-CommonName,ScientificName,RefLinkAudubon,Apperarance,RandomFact,Habitat,Migration,ConservationStatus
-White-throated Sparrow,Zonotrichia albicollis,http://www.audubon.org/field-guide/bird/white-throated-sparrow,,Often scratches briefly in leaf-litter with both feet,Forages mostly on ground under or lose to dense thickets,Fall,Stable
-Brown Creeper,Certhia americana,http://www.audubon.org/field-guide/bird/brown-creeper,,Looks like moving bark,Shady trees,Spring and Fall,Declined in Eastern US
-Ovenbird,Seiurus aurocapilla,http://www.audubon.org/field-guide/bird/ovenbird,,Young Ovenbirds hop while foraging.,Near ground in leafy woods,Fall,Stable
-Hermit Thrush,Catharus guttatus,http://www.audubon.org/field-guide/bird/hermit-thrush,,Momentarily hovers potential meal,Conifer or Mixed Woods,Spring and Fall,Stable
-Dark-eyed Junco,Junco hyemalis,http://www.audubon.org/field-guide/bird/dark-eyed-junco,,Forage while hopping and running ,Woodland edges and suburban yards,,Abundant and widespread
-Tennessee Warbler,Oreothlypis peregrina,https://www.audubon.org/field-guide/bird/tennessee-warbler,,"Can be observed in the outer foliage of trees, sometimes hanging head downward",Mixed Forests,Spring,Healthy
-Swainson's Thrush,Catharus ustulatus,http://www.audubon.org/field-guide/bird/swainsons-thrush,,May catch insects mid-air,Spruce forests and dense streamside woods,Sping,Stable
-Nashville Warbler,Oreothlypis ruficapilla,http://www.audubon.org/field-guide/bird/nashville-warbler,,Perches in foliage,Open mixed woods with undergrowth,Spring,Stable
-American Woodcock,Scolopax minor,https://www.audubon.org/field-guide/bird/american-woodcock,,Probes soft soil with bill,Wet thickets and moist woods. ,Spring and Fall,Declining in Eastern US
+CommonName,ScientificName,RefLinkAudubon,RandomFact,Habitat,Migration,NumbersRecovered2013,NumbersRecovered2014,Source
+White-throated Sparrow,Zonotrichia albicollis,http://www.audubon.org/field-guide/bird/white-throated-sparrow,Often scratches briefly in leaf-litter with both feet,Forages mostly on ground under or lose to dense thickets,Fall,1119,687,BM
+Brown Creeper,Certhia americana,http://www.audubon.org/field-guide/bird/brown-creeper,Looks like moving bark,Shady trees,Spring and Fall,519,344,BM
+Ovenbird,Seiurus aurocapilla,http://www.audubon.org/field-guide/bird/ovenbird,Young Ovenbirds hop while foraging.,Near ground in leafy woods,Fall,343,475,BM
+Hermit Thrush,Catharus guttatus,http://www.audubon.org/field-guide/bird/hermit-thrush,Momentarily hovers potential meal,Conifer or Mixed Woods,Spring and Fall,374,279,BM
+Dark-eyed Junco,Junco hyemalis,http://www.audubon.org/field-guide/bird/dark-eyed-junco,Forage while hopping and running ,Woodland edges and suburban yards,,300,296,BM
+Tennessee Warbler,Oreothlypis peregrina,https://www.audubon.org/field-guide/bird/tennessee-warbler,"Can be observed in the outer foliage of trees, sometimes hanging head downward",Mixed Forests,Spring,249,446,BM
+Swainson's Thrush,Catharus ustulatus,http://www.audubon.org/field-guide/bird/swainsons-thrush,May catch insects mid-air,Spruce forests and dense streamside woods,Sping,159,260,BM
+Nashville Warbler,Oreothlypis ruficapilla,http://www.audubon.org/field-guide/bird/nashville-warbler,Perches in foliage,Open mixed woods with undergrowth,Spring,158,173,BM
+American Woodcock,Scolopax minor,https://www.audubon.org/field-guide/bird/american-woodcock,Probes soft soil with bill,Wet thickets and moist woods. ,Spring and Fall,181,159,BM
+Golden-crowned Kinglet,Regulus satrapa,http://www.audubon.org/field-guide/bird/golden-crowned-kinglet,Remarkable in it's ability to survive in cold environments,Mostly conifer,Spring and Fall,134,84,BM
+Acadian flycatcher,Empidonax virescens,https://www.audubon.org/field-guide/bird/acadian-flycatcher,Courtship involves rapid aerial chases,Deciduous forests,,,,LPZ
+Alder Flycatcher,Empidonax alnorum,https://www.audubon.org/field-guide/bird/alder-flycatcher,Both parents bring food to nestlings,Deciduous forests,,,,LPZ
+Bank Swallow,Riparia riparia,https://www.audubon.org/field-guide/bird/bank-swallow,Feeds almost entirely in flight,Near water,Spring,,,LPZ
+Black-Crowned Night Heron,Nycticorax nycticorax,https://www.audubon.org/field-guide/bird/black-crowned-night-heron,Both parents feedthe young by regurgitation,,,,,LPZ
+Brewer's Blackbird,Euphagus cyanocephalus,https://www.audubon.org/field-guide/bird/brewers-blackbird,Often seen walking on the ground with short forward jerks of its head,,Spring and Fall,,,LPZ
+Caspian Tern,Hydroprogne caspia,https://www.audubon.org/field-guide/bird/caspian-tern,Many adult Caspians are trailed by a begging youngster from the previous nesting season,Cosmopolitan,,,,LPZ
+Cooper’s Hawk ,Accipiter cooperii,https://www.audubon.org/field-guide/bird/coopers-hawk,hunts by stealth,Woodlands,,,,LPZ
+Double-Crested Cormorant,Phalacrocorax auritus,https://www.audubon.org/field-guide/bird/double-crested-cormorant,Forages by diving surface and swimming underwater,Lives low in Water,,,,LPZ
+European Starling,Sturnus vulgaris,https://www.audubon.org/field-guide/bird/european-starling,Often regarded as a pest,,,,,LPZ
+House Finch,Haemorhous mexicanus,https://www.audubon.org/field-guide/bird/house-finch,,Can be found perching in weeds,Fall,,,LPZ
+Le Conte's Sparrow,Ammodramus leconteii,https://www.audubon.org/field-guide/bird/le-contes-sparrow,,,,,,LPZ
+Merlin,Falco columbarius,https://www.audubon.org/field-guide/bird/merlin,Nests off the ground,Tall grass,Spring and Fall,,,LPZ
+Northern Rough-Winged Swallow,Stelgidopteryx serripennis,https://www.audubon.org/field-guide/bird/le-contes-sparrow,Hides in dense low growth,Damp fields,,,,LPZ
+Northern Shoveler,Anas clypeata,https://www.audubon.org/field-guide/bird/northern-shoveler,Heavy yet good fliers,Lives near aquatic habitats,Spring and Fall,,,LPZ
+Olive-Sided Flycatcher,Contopus cooperi,https://www.audubon.org/field-guide/bird/olive-sided-flycatcher,Male defends nesting by singing in spring,"Coniferous forests, burns, clearings",Sprng and Fall,,,LPZ
+Orange-Crowned Warbler,Orange-crowned Warbler,https://www.audubon.org/field-guide/bird/orange-crowned-warbler,May pierce the base fo flowers with bill to take nectar,Brushy clearings ,Spring and Fall,,,LPZ
+Peregrine Falcon,Falco peregrinus,https://www.audubon.org/field-guide/bird/peregrine-falcon,One of world's fastest birds,Permanet on Northwest coast and some temperate regions,,,,LPZ
+Philadelphia Vireo,Vireo philadelphicus,https://www.audubon.org/field-guide/bird/philadelphia-vireo,,Second growth forests,Spring and Fall,,,LPZ
+Pine Siskin,Spinus pinus,https://www.audubon.org/field-guide/bird/pine-siskin,Can be observed hanging on to the head of a wild flower,"Conifers, mixed woods, and weedy areas",erradic,,,LPZ
+,,,,,,,,LPZ
