@@ -6,6 +6,31 @@
   text-transform: uppercase;
 }
 
+@font-face {
+  font-family: 'Comfortaa';
+  font-style: normal;
+  font-weight: 300;
+  src: local('Comfortaa Light'), local('Comfortaa-Light'), url(http://fonts.gstatic.com/s/comfortaa/v7/r_tUZNl0G8xCoOmp_JkSCqRDOzjiPcYnFooOUGCOsRk.woff) format('woff');
+}
+@font-face {
+  font-family: 'Comfortaa';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Comfortaa'), local('Comfortaa-Regular'), url(http://fonts.gstatic.com/s/comfortaa/v7/qLBu5CQmSMt1H43OiWJ77bO3LdcAZYWl9Si6vvxL-qU.woff) format('woff');
+}
+@font-face {
+  font-family: 'Comfortaa';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Comfortaa Bold'), local('Comfortaa-Bold'), url(http://fonts.gstatic.com/s/comfortaa/v7/fND5XPYKrF2tQDwwfWZJI6RDOzjiPcYnFooOUGCOsRk.woff) format('woff');
+}
+@font-face {
+  font-family: 'Grand Hotel';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Grand Hotel'), local('GrandHotel-Regular'), url(http://fonts.gstatic.com/s/grandhotel/v4/NrGQkrs9rbHm5EYx0Eil0rrIa-7acMAeDBVuclsi6Gc.woff) format('woff');
+}
+
 .nav li {
   display: inline;
 }
@@ -26,12 +51,12 @@
 .h1 {
   color: #fff;
   font-size: 48px;  
-  font-family: 'Helvetica', sans-serif;
+  font-family: 'Grand Hotel';
   font-weight: bold;
 }
 
 .p {
-  font-family: 'Helvetica', sans-serif;
+  font-family: 'Comfortaa', sans-serif;
 
 }
 
@@ -45,7 +70,7 @@
 }
 
 .learn-more h3 {
-  font-family: 'Helvetica', sans-serif;
+  font-family: 'Comfortaa';
   font-size: 18px;
   font-weight: bold;
 }
