@@ -1,0 +1,66 @@
+.nav a {
+  color: #5a5a5a;
+  font-size: 11px;
+  font-weight: bold;
+  padding: 14px 10px;
+  text-transform: uppercase;
+}
+
+.nav li {
+  display: inline;
+}
+
+.jumbotron {
+  background-image:url('http://static.hdw.eweb4.com/media/wallpapers_1920x1080/space/1/1/earth-space-hd-wallpaper-1920x1080-9805.jpg');
+  height: 500px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.jumbotron .container {
+  position: relative;
+  top:100px;
+}
+
+.h1 {
+  color: #fff;
+  font-size: 48px;  
+  font-family: 'Helvetica', sans-serif;
+  font-weight: bold;
+}
+
+.p {
+  font-family: 'Helvetica', sans-serif;
+
+}
+
+.jumbotron p {
+  font-size: 20px;
+  color: #fff;
+}
+
+.learn-more {
+  background-color: #f7f7f7;
+}
+
+.learn-more h3 {
+  font-family: 'Helvetica', sans-serif;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.learn-more a {
+  color: #00b0ff;
+}
+
+.nav-center {
+    margin:0;
+    float:none;
+}
+
+.navbar {
+    background-color: transparent;
+    background: transparent;
+  }
+  
+  .navbar li { color: #000 }
