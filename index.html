@@ -11,7 +11,7 @@
                     </head>
 
   <body></body>
-  <div class="jumbotron">
+  <div class="jumbotron" background-image="chiphoto.jpg" !important>
     <div class="nav">
       <div class="navbar transparent navbar-static-top" style="border-radius:none !important;">
   <div class="navbar-inner">
@@ -25,20 +25,6 @@
         </div>
       </div>
     </div>
-    </div>
-    <div class="neighborhood-guides">
-    <div class="container">
-    <div class="row">
-    <div class="col-md-4">
-    </div>
-    <div class="col-md-4">
-    </div>
-    <div class="col-md-4">
-    </div>
-    </div>
-    </div>
-    </div>
-    <div class="learn-more">
     <div class="container">
     <div class="row">
           <div class="col-md-4" align="left">
@@ -54,21 +40,30 @@
 
       </div>
     </div>
-  </div>
-  <div align="center">
-  <div id="migsea">
-  <h3>It's not migration season...</h3>
-  <p>But birds can still crash into windows! <a href="http://chirpcity.github.io/howtohelp">Read about how to protect them</a></p>
-  </div>
-  <h3>Bird feed recipes</h3>
-  <a href="http://chirpcity.github.io/howtohelp/recipes">Find recipes for healthy bird food</a>
+    </div>
+  <div class="learn-more">
+    <div class="container">
+      <div class="row">
+          <div class="col-md-4" align="left" id="migsea">
+              <h3>It's not migration season...</h3>
+              <p>But birds can still crash into windows! <a href="http://chirpcity.github.io/howtohelp">Read about how to protect them</a></p>
+              <h3>Bird feed recipes</h3>
+              <a href="http://chirpcity.github.io/howtohelp/recipes">Find recipes for healthy bird food</a>
+          </div>
+          <div class="col-md-4"></div>
+          <div class="col-md-4" align="right">
+            <a class="twitter-timeline" data-dnt="true" href="https://twitter.com/chirpcitychi" data-widget-id="607359469882732544">Tweets by @chirpcitychi</a>
+            <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+          </div>
+      </div>
+    </div>
   </div>
   </body>
   <script>
   var d = new Date();
   var n = d.getMonth();
   if (1<n & n<6 || 6<n & n<11) {
-  document.getElementById("migsea").innerHTML = "<h3>It's migration season!</h3>\n<p>This is a prime time for birds to collide with windows...<a href=\"http://chirpcity.github.io/howtohelp\">Read about how to protect them</a></p>";
+  document.getElementById("migsea").innerHTML = "<h3>It's migration season!</h3>\n<p>This is a prime time for birds to collide with windows...<a href=\"http://chirpcity.github.io/howtohelp\">Read about how to protect them</a></p>\n<h3>Bird feed recipes</h3>\n<a href=\"http://chirpcity.github.io/howtohelp/recipes\">Find healthy recipes to feed birds</a>";
   }
 </script>
 </html>
